@@ -12,6 +12,7 @@ import Projects from "./components/projects/Projects";
 import Experience from "./components/sections/Experience";
 import Contact from "./components/sections/Contact";
 import Footer from "./components/layout/Footer";
+import CustomCursor from "./components/common/CustomCursor";
 import "./styles/App.css";
 
 function AppContent() {
@@ -20,6 +21,7 @@ function AppContent() {
     return (
         <>
             <CssBaseline />
+            <CustomCursor />
             <div
                 className='min-h-screen transition-all duration-500'
                 style={{ background: colors.background.gradient }}>

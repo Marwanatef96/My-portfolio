@@ -853,6 +853,7 @@ const Contact = () => {
                                 }))
                             }
                             sx={{
+                                zIndex: 9999,
                                 backgroundColor:
                                     notification.type === "success"
                                         ? "#10b98133"
