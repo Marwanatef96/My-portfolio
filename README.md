@@ -6,7 +6,7 @@ This is the repository for my personal portfolio website, showcasing my skills a
 
 ## Live Demo
 
-A live version of the portfolio can be found here: [https://vercel.com/sadmans-projects-e671fc86/my-portfolio/B7v6c1xcNvsNpK2BbGC4UVRxqLi5](LIve Demo)
+A live version of the portfolio can be found here: [LIve Demo](https://vercel.com/sadmans-projects-e671fc86/my-portfolio/B7v6c1xcNvsNpK2BbGC4UVRxqLi5)
 
 ## Features
 
