@@ -97,7 +97,7 @@ const About = () => {
             radial-gradient(circle at 30% 40%, ${colors.primary}14 0%, transparent 50%),
             radial-gradient(circle at 70% 60%, ${colors.accent}14 0%, transparent 50%),
             radial-gradient(circle at 50% 20%, ${colors.secondary}0f 0%, transparent 50%),
-            linear-gradient(135deg, ${colors.background.paper} 0%, ${colors.background.paper}80 100%)
+            linear-gradient(135deg, ${colors.background.main} 0%, ${colors.background.main}80 100%)
           `,
                 }}
             />
